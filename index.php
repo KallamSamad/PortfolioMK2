@@ -6,7 +6,7 @@
     <title>Kallam Samad | Portfolio</title>
     <link href="./src/output.css" rel="stylesheet">
 </head>
-<body class="bg-lime-500 text-zinc-50 font-sans antialiased">
+<body class="bg-zinc-950 text-zinc-50 font-sans antialiased">
     
     <h1 class="text-3xl font-bold p-6 text-center">Portfolio 2.0 Under Construction 🚀</h1>
 </body>
