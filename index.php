@@ -7,7 +7,7 @@
     <link href="./src/output.css" rel="stylesheet">
 </head>
 <?php require_once "nav.php" ?> 
-<body class="bg-zinc-900 text-zinc-50 font-sans antialiased">
+<body class="bg-slate-950 text-white font-sans antialiased">
     
     <h1 class="text-3xl font-bold p-6 text-center">Portfolio 2.0 Under Construction 🚀</h1>
 </body>
