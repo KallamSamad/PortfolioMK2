@@ -1,2 +1,19 @@
 @import 'tailwindcss';
 @import 'tailwind-animations';
+
+@layer utilities {
+  .marquee-track {
+    display: flex;
+    width: max-content;
+    animation: scroll-left 20s linear infinite;
+  }
+  .group {
+    display: flex;
+    gap: 1rem;
+    flex-shrink: 0;
+  }
+  @keyframes scroll-left {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+}

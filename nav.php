@@ -1,7 +1,7 @@
 <nav class="bg-[#111827] px-6 py-4 sticky top-0 z-50">
     <div class="flex items-center justify-between">
     
-    <h1 class="text-xl text-lime-400 font-bold">Kallam Samad</h1>
+    <h1 class="text-xl text-lime-400 font-bold"><a href="index.php">Kallam Samad</a></h1>
         <ul class="hidden md:flex gap-8 items-center">
             <li><a class="hover:text-lime-400 transition-colors" href="aboutme.php">About Me</a></li>
             <li><a class="hover:text-lime-400 transition-colors" href="projects.php">Projects</a></li>
